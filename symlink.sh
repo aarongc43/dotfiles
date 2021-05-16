@@ -7,7 +7,7 @@
 dir=~/dotfiles/
 
 # list of files/folders to symlink in homedir
-files=".vimrc"
+files="vimrc"
 
 ##########
 

@@ -25,7 +25,6 @@ set colorcolumn=80
 set cmdheight=2
 set nocompatible
 set shortmess+=c
-set guifont= Source\ Code\ Pro\ Regular\ 14
 set t_Co=256
 
 call plug#begin()
